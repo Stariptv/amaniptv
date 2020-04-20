@@ -1759,7 +1759,6 @@ https://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
 https://bglive-a.bitgravity.com/ndtv/247hi/live/native
 #EXTINF:0,NDTV HD (Flash Only?)
 https://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtv247live512
-#EXTM3U
 #EXTINF:0,NBC Sports Golf HD
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
 #EXTINF:0,The Shopping Channel HD
@@ -1772,45 +1771,10 @@ https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_2_av-b.m3u
 #https://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
 #EXTINF:0,RT Documentary HD
 #https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v3.m3u8
-#EXTINF:0,Global TV Halifax HD
-https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
-#EXTINF:0,Global Toronto HD
-https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8
-#EXTINF:0,Global Calgary HD
-https://glblvmstu-f.akamaihd.net/i/glblvMSTu_1@80127/master.m3u8
-#EXTINF:0,Global Edmonton HD
-https://glblvedmonton-lh.akamaihd.net/i/glblvEdmonton_1@119844/master.m3u8
-#EXTINF:0,Global Vancouver HD
-https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8
 #EXTINF:0,Hard Knocks TV
 https://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
 #EXTINF:0,NTV Newfoundland
 http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:0,History HD
 http://185.246.209.109:8080/HISTORY2/index.m3u8
-#EXTINF:0,ICI Tele Acadie
-https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8
-#EXTINF:0,ICI Tele Alberta
-https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8
-#EXTINF:0,ICI Tele CB-Yukon
-https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8
-#EXTINF:0,ICI Tele Est-Quebec
-https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8
-#EXTINF:0,ICI Tele Estrie
-https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8
-#EXTINF:0,ICI Tele Manitoba
-https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8
-#EXTINF:0,ICI Tele Mauricie
-https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8
-#EXTINF:0,ICI Tele Montreal
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-#EXTINF:0,ICI Tele Ontario
-https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8
-#EXTINF:0,ICI Tele Ottawa-Gatineau
-https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8
-#EXTINF:0,ICI Tele Quebec
-https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
-#EXTINF:0,ICI Tele Saguenay
-https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
-#EXTINF:0,ICI Tele Saskatchewan
-https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
+
