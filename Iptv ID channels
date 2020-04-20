@@ -1,4 +1,60 @@
 #EXTM3U
+#EXTINF:-1 group-title="English Movies", MNX 
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
+#EXTINF:-1 group-title="English Movies", Star Movies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 group-title="English Movies", Star Movies
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
+#EXTINF:-1 group-title="English Movies", Movies Now
+https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
+#EXTINF:-1 group-title="English Movies", Lotus TV Macau
+https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
+#EXTINF:-1 group-title="English Movies", HBO 
+https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="English Movies", Warner TV
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 group-title="English Movies", VH1
+https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
+#EXTINF:-1 group-title="English Movies", FYI TV 18
+https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
+#EXTINF:-1 group-title="English Movies", Sony Pix HD (icc)
+http://10.16.100.204:8080/tv204/sony_pix720.m3u8
+#EXTINF:-1 group-title="English Movies", Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
+#EXTINF:-1 group-title="English Movies", AXN
+https://anytv.gov.gdn/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="English Movies", STAR WORLD FHD
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
+#EXTINF:-1 group-title="Cartoon ", Nick Bangla
+https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 group-title="Cartoon ", Nick Sonic Bangla
+https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
+#EXTINF:-1 group-title="Cartoon ", Nick JR.
+https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
+#EXTINF:-1 group-title="Cartoon ", Sony YAY Bangla
+http://10.16.100.207:8082/sports/SONYYAY.m3u8
+#EXTINF:-1 group-title="Cartoon ", Disney XD (icc)
+http://10.16.100.202:8080/tvs202/disneyxd.m3u8
+#EXTINF:-1 group-title="Cartoon ", Discovery Kids
+https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
+#EXTINF:-1 group-title="Cartoon ", CARTOON NETWORK Hindi
+https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cartoon ",Disney Channel Eng
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Knowledge & Lifestyle", Discovery HD
+https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+#EXTINF:-1 group-title="Knowledge & Lifestyle", Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 group-title="Knowledge & Lifestyle",FOX Life
+https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
+#EXTINF:-1 group-title="Knowledge & Lifestyle",Nat Geo People
+https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
+#EXTINF:-1 group-title="Knowledge & Lifestyle", Nat Geo In
+https://bracnet.iptv.jadoodigital.com/live/nat_geo_in/chunks.m3u8
+#EXTINF:-1 group-title="Knowledge & Lifestyle",Animal Planet HD Hindi
+https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTINF:-1 group-title="Knowledge & Lifestyle", TLC HD
+https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",5aab TV
