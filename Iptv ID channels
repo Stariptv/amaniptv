@@ -11,8 +11,6 @@ https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 group-title="English Movies", HBO 
 https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="English Movies", Warner TV
-http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 group-title="English Movies", VH1
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:-1 group-title="English Movies", FYI TV 18
