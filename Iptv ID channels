@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="English Movies", Star Movies HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 group-title="English Movies", Star Movies
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
 #EXTINF:-1 group-title="English Movies", Movies Now
