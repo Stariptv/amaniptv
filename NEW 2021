@@ -289,3 +289,5 @@ https://alchimie-unbeaten-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://a.jsrdn.com/rtmp/22690/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="https://i.imgur.com/450pJvs.png" group-title="UK",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="8076" radio="false" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/tlchd.png" tvg-chno="464" group-title="Movie Chans",TLC HD
+https://itvorigin.multitvsolution.com/idvo/tlchd.m3u8
