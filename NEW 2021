@@ -732,3 +732,8 @@ http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6733/index.m3u8
 http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6734/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="3548" tvg-logo="http://epg.it999.ru/img2/3548.png" tvg-rec="0",PTV Global IN
 http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6735/index.m3u8
+
+#EXTINF:0 group-title="USA" tvg-id="2345" tvg-logo="http://epg.it999.ru/img/2345.png" tvg-rec="3",TLC
+http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/1105/index.m3u8
+#EXTINF:0 group-title="USA" tvg-id="3666" tvg-logo="http://epg.it999.ru/img2/3666.png" tvg-rec="0",TLC CA
+http://forever.megogo.xyz/iptv/V9R6P3BL5BBWV9/6524/index.m3u8
