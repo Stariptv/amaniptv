@@ -291,3 +291,5 @@ https://a.jsrdn.com/rtmp/22690/index.m3u8
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 channel-id="8076" radio="false" tvg-logo="https://mhdtvworld.live/wp-content/uploads/2018/12/tlchd.png" tvg-chno="464" group-title="Movie Chans",TLC HD
 https://itvorigin.multitvsolution.com/idvo/tlchd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|PT/DC| TLC" tvg-logo="" group-title="PORTUGAL",|PT/DC| TLC
+http://163.172.31.126:2052/portugalpanel3/7546141233/6184
