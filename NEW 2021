@@ -67,3 +67,21 @@ http://cdn.ottg.tv/3127/video.m3u8?token=test
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeo.m3u8?mu3zAQc9HC3GbwJq=DQ3Zy-YdTygByA3NFeDGfg&3U1G7qaTxrPbalZnEx=1612114993
 #EXTINF:-1,Discovery Channel HD
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=5mgR9XGW8joYrqS8scdenQ&3U1G7qaTxrPbalZnEx=1612115091
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/amlBPub.png",TLC
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/blEhr2T.png",Discovery Asia
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/9ZqIRg1.png",BBC World News
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://i.imgur.com/wwTUVYP.png",BBC Lifestyle
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
