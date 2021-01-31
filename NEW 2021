@@ -11,3 +11,55 @@ https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval0/index.m3u8
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC TR" tvg-logo="https://i.imgur.com/vtedYFm.png" group-title="TURKEY",TLC TR
 https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8
+#EXTINF:-1,3 Sport
+http://cdn.ottg.tv/7729/video.m3u8?token=test
+#EXTINF:-1,3 Sport2
+http://cdn.ottg.tv/4490/video.m3u8?token=test
+#EXTINF:-1,SPORT 1
+http://cdn.ottg.tv/4035/video.m3u8?token=test
+#EXTINF:-1,NBA TV US
+http://cdn.ottg.tv/8233/video.m3u8?token=test
+#EXTINF:-1,LRT TELEVIZIJA
+http://cdn.ottg.tv/9055/video.m3u8?token=test
+#EXTINF:-1,LRT PLIUS
+http://cdn.ottg.tv/6503/video.m3u8?token=test
+#EXTINF:-1,TV3
+http://cdn.ottg.tv/9102/video.m3u8?token=test
+#EXTINF:-1,TV1
+http://213.226.137.139:81/tl/l712/index.m3u8
+#EXTINF:-1,TV6
+https://e21.plius.tv:443/n128/video.m3u8
+#EXTINF:-1,TV8
+http://cdn.ottg.tv/3814/video.m3u8?token=test
+#EXTINF:-1,LNK
+http://cdn.ottg.tv/5900/video.m3u8?token=test
+#EXTINF:-1,BTV
+https://e21.plius.tv:443/n133/video.m3u8
+#EXTINF:-1,Lietuvos Rytas TV
+http://cdn.ottg.tv/5861/video.m3u8?token=test
+#EXTINF:-1,Delfi Tv
+https://e21.plius.tv:443/n3/video.m3u8
+#EXTINF:-1,Siauliu Televizija
+https://e21.plius.tv:443/n13/video.m3u8
+#EXTINF:-1,Taurages TVK
+https://e21.plius.tv:443/n129/video.m3u8
+#EXTINF:-1,INFO TV
+http://213.226.137.139:81/tl/l713/index.m3u8
+#EXTINF:-1,2TV
+http://213.226.137.139:81/tl/l8/index.m3u8
+#EXTINF:-1,ZTV
+https://jaii.l.dedikuoti.lt/live/broadcast.m3u8
+#EXTINF:-1,PUKAS TV
+http://213.226.137.130:81/tl2/l362/index.m3u8
+#EXTINF:-1,7 init tv
+http://cdn.ottg.tv/3138/video.m3u8?token=test
+#EXTINF:-1,init tv
+https://e21.plius.tv:443/n23/video.m3u8
+#EXTINF:-1,Balticum Tv
+http://213.226.137.130:81/tl2/l11/index.m3u8
+#EXTINF:-1,Balticum Auksinis
+http://cdn.ottg.tv/3691/video.m3u8?token=test
+#EXTINF:-1,Balticum Platinum
+http://cdn.ottg.tv/4151/video.m3u8?token=test
+#EXTINF:-1,3 film
+http://cdn.ottg.tv/3127/video.m3u8?token=test
