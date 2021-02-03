@@ -28,5 +28,6 @@ http://78.61.190.84:9981/stream/channelid/1432850755?profile=pass
 http://78.61.190.84:9981/stream/channelid/1558741374?profile=pass
 #EXTINF:-1 tvg-id="a3d2f7b771a87ab9f9512a396c75bfc5" tvg-chno="1",Info TV
 http://78.61.190.84:9981/stream/channelid/938988195?profile=pass
-
+#EXTINF:-1 tvg-id="NASATV" tvg-name="NASATV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/441fd841-4cd4-42d0-8471-98d55a05ad47-small3x1_STIRR_Logo_0320_NASA_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",NASATV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
