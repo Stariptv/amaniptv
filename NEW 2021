@@ -963,4 +963,5 @@ http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
 #EXTINF:-1,Zee News
 https://zmcl-live.akamaized.net/zeenewsclean_mbr/index.m3u8?hdnts=st=1607509766~exp=1607512766~acl=/*~hmac=b0891fd69bc6a0783203529934bc82a562c9b7a6d9215f3759bac7a30068
-
+#EXTINF:-1 tvg-id="NASATV" tvg-name="NASATV" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/441fd841-4cd4-42d0-8471-98d55a05ad47-small3x1_STIRR_Logo_0320_NASA_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",NASATV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
