@@ -1439,3 +1439,212 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KqjTIh8.png" group-title="REDBOX USA",Spotlight
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="************** USA TVS *********" tvg-id="" group-title="" tvg-logo="",************** USA TVS  *********
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Boxing Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Classic Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Classic Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Drive-in Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Family Channel
+http://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Film Noir Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Flashback Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Front Page Detective
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Frontier
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Hi Tops
+https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Hollywood History
+http://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Horror
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Inspirational Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Main Street
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Music Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Nostalgia
+https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Nostalgia Movies Network
+http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Quiz Show Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Select Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Sitcom
+https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Sports Network
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Tally Ho
+https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Tavern TV
+https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Turbo Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Travel Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Television Network
+http://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Today Home Entertainment Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Western Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Women´s Sports Network
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="************** USA FILMRISE *********",************** USA FILMRISE  *********
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:- tvg-name="Filmrise Classics" 1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71te2lAHq5L._SY355_.png" group-title="USA",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1  tvg-name="Filmrise Family" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="USA",Filmrise Family
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="FilmRise Forensic Files 24/7" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA",FilmRise Forensic Files 24/7
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:-1 tvg-name="FilmRise Forensic Mysteries 24/7" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA",FilmRise Mysteries 24/7
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Filmrise Movies" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA",Filmrise Movies
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="USA",FilmRise Sci-Fi
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="*********** USA BUMBLEBEE **********",*********** USA BUMBLEBEE **********
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 tvg-name="Animals Live" tvg-logo="https://i.imgur.com/mJZHoUj.png" group-title="Bumblebee USA",Animals Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 tvg-name="Aurora Live" tvg-logo="https://i.imgur.com/vNrFKse.png" group-title="Bumblebee USA",Aurora Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 tvg-name="Automoto" tvg-name="" tvg-logo="https://i.imgur.com/H3iaTB5.png" group-title="Bumblebee USA",Automoto
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+#EXTINF:-1 tvg-name="Beaches Live" tvg-logo="https://i.imgur.com/wdD4lov.png" group-title="Bumblebee USA",Beaches Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 tvg-name="Boy Kid Vids" tvg-name="" tvg-logo="https://i.imgur.com/2IgM6LJ.png" group-title="Bumblebee USA",Country Boy Kid Vids
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+#EXTINF:-1 tvg-name="Classics Channel" tvg-logo="https://i.imgur.com/AuKo7Nx.png" group-title="Bumblebee USA",Classics Channel
+https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
+#EXTINF:-1 tvg-name="Civilized" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="Bumblebee USA",Civilized
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
+#EXTINF:-1 tvg-name="Coronavirus.gov" tvg-logo="https://i.imgur.com/hqSGsrX.png" group-title="Bumblebee USA",Coronavirus.gov
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
+#EXTINF:-1 tvg-name="Cute Zone" tvg-logo="https://i.imgur.com/1H2KOju.png" group-title="Bumblebee USA",Cute Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+#EXTINF:-1 tvg-name="Divorce Court" tvg-logo="https://i.imgur.com/V0CDykG.png" group-title="Bumblebee USA",Divorce Court
+https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
+#EXTINF:-1 tvg-name="Docs Channel" tvg-logo="https://i.imgur.com/peb9qn3.png" group-title="Bumblebee USA",Docs Channel
+https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609d9d6344257cbfb6ee4/playlist.m3u8
+#EXTINF:-1 tvg-name="Epic Misses & Mayhem" tvg-name="" tvg-logo="https://i.imgur.com/JcDDd5I.png" group-title="Bumblebee USA",Epic Misses & Mayhem
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
+#EXTINF:-1 tvg-name="External Ottera" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="Bumblebee USA",External Ottera
+https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
+#EXTINF:-1 tvg-name="FGTV & Funnelvision" tvg-logo="https://i.imgur.com/OD6qg0K.png" group-title="Bumblebee USA",FGTV & Funnelvision
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+#EXTINF:-1 tvg-name="Forests Live" tvg-logo="https://i.imgur.com/NKW3gW7.png" group-title="Bumblebee USA",Forests Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 tvg-name="Fun Zone" tvg-logo="https://i.imgur.com/qmjK72w.png" group-title="Bumblebee USA",Fun Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
+#EXTINF:-1 tvg-name="Gameplay" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="Bumblebee USA",Gameplay
+https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
+#EXTINF:-1 tvg-name="Giggle Zone" tvg-logo="https://i.imgur.com/Pr5GWWg.png" group-title="Bumblebee USA",Giggle Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+#EXTINF:-1 tvg-name="High Times TV" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="Bumblebee USA",High Times TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8
+#EXTINF:-1 tvg-name="Jerry Springer" tvg-logo="https://i.imgur.com/sAfnZip.png" group-title="Bumblebee USA",Jerry Springer
+https://057ed30176c1453da6d54e583b32852b.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7f848f1ff2e1d2555a2/playlist.m3u8
+#EXTINF:-1 tvg-name="Judge Karen's Court" tvg-logo="https://i.imgur.com/rku6tmo.png" group-title="Bumblebee USA",Judge Karen's Court
+https://cb5273f195a147f2bcf23544e4495f66.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
+#EXTINF:-1 tvg-name="Lakes Live" tvg-logo="https://i.imgur.com/ijurD8t.png" group-title="Bumblebee USA",Lakes Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 tvg-name="Lego Toons" tvg-logo="https://i.imgur.com/0ksEr4f.png" group-title="Bumblebee USA",Lego Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 tvg-name="Let's Play Minecraft" tvg-logo="https://i.imgur.com/lW4n39E.png" group-title="Bumblebee USA",Let's Play Minecraft
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
+#EXTINF:-1 tvg-name="Lifebae" tvg-logo="https://i.imgur.com/8aNLwPG.png" group-title="Bumblebee USA",Lifebae
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
+#EXTINF:-1 tvg-name="Master Builders" tvg-logo="https://i.imgur.com/4GQ78zv.png" group-title="Bumblebee USA",Master Builders
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+#EXTINF:-1 tvg-name="Maury" tvg-logo="https://i.imgur.com/HXi8HG8.png" group-title="Bumblebee USA",Maury
+https://43eed3df38d04ed7a3be7cc4ee510b43.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e88458ad7801fa2cfc2e/playlist.m3u8
+#EXTINF:-1 tvg-name="Motorcyclist" tvg-name="" tvg-logo="https://i.imgur.com/VBkJrGv.png" group-title="Bumblebee USA",Motorcyclist
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
+#EXTINF:-1 tvg-name="Mountains Live" tvg-logo="https://i.imgur.com/XthH1RM.png" group-title="Bumblebee USA",Mountains Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1 tvg-name="Now You Know" tvg-logo="https://i.imgur.com/BGGhItM.png" group-title="Bumblebee USA",Now You Know
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
+#EXTINF:-1 tvg-name="Popcorn Flix Action" tvg-logo="https://i.imgur.com/CgYnCxA.png" group-title="Bumblebee USA",Popcorn Flix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1 tvg-name="Recoil TV" tvg-logo="https://i.imgur.com/YfDWYmN.png" group-title="Bumblebee USA",Recoil TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8
+#EXTINF:-1 tvg-name="Rivers Live" tvg-logo="https://i.imgur.com/asqplX6.png" group-title="Bumblebee USA",Rivers Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-name="Roblox" tvg-logo="https://i.imgur.com/Byan2OK.jpg" group-title="Bumblebee USA",Roblox
+https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
+#EXTINF:-1 tvg-name=Shorts Channel" tvg-logo="https://i.imgur.com/ttsZkJM.png" group-title="Bumblebee USA",Shorts Channel
+https://b29da26d9a17436eafe339c08e488f33.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609010d552957bf5aa546/playlist.m3u8
+#EXTINF:-1 tvg-name="Slimo" tvg-logo="https://i.imgur.com/MMCKDpf.png" group-title="Bumblebee USA",Slimo
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
+#EXTINF:-1 tvg-name="Smosh" tvg-logo="https://i.imgur.com/PbkQkhq.png" group-title="Bumblebee USA",Smosh
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
+#EXTINF:-1 tvg-name="Sports News" tvg-logo="https://i.imgur.com/DWcfDc5.png" group-title="Bumblebee USA",Sports News
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf221fad5eeee0f5a40941c/playlist.m3u8
+#EXTINF:-1 tvg-name="Steve Wilkos" tvg-logo="https://i.imgur.com/CzrTxt2.png" group-title="Bumblebee USA",Steve Wilkos
+https://ff025cd3f4b44af9915c7303489f823c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e84c95ee0253b97679d7/playlist.m3u8
+#EXTINF:-1 tvg-name="Sunsets Live" tvg-logo="https://i.imgur.com/O7gIg07.png" group-title="Bumblebee USA",Sunsets Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 tvg-name="Taste It" tvg-name="" tvg-logo="https://i.imgur.com/VR1E6WB.png" group-title="Bumblebee USA",Taste It
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
+#EXTINF:-1 tvg-name="Thinknoodles" tvg-logo="https://i.imgur.com/LNzPgeF.png" group-title="Bumblebee USA",Thinknoodles
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5afc810e932c833522744733/playlist.m3u8
+#EXTINF:-1 tvg-name="Toy Zone" tvg-logo="https://i.imgur.com/pE9Vv17.png" group-title="Bumblebee USA",Toy Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
+#EXTINF:-1 tvg-name="Trinity & Beyond" tvg-logo="https://i.imgur.com/Q7Zss1U.png" group-title="Bumblebee USA",Trinity & Beyond
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
+#EXTINF:-1 tvg-name="Tropics Live" tvg-logo="https://i.imgur.com/lvCjTl5.png" group-title="Bumblebee USA",Tropics Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 tvg-name="Wanderluster" tvg-logo="https://i.imgur.com/rFL5oBe.png" group-title="Bumblebee USA",Wanderluster
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2267fd5eeee0f5a4094c0/playlist.m3u8
+#EXTINF:-1 tvg-name="Waterfalls Live" tvg-logo="https://i.imgur.com/b0jl5EG.png" group-title="Bumblebee USA",Waterfalls Live
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="*********** USA UDU TV **********",*********** USA UDU TV **********
+https://5c8eaf7647284895b269fd13a40d410c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af95de69db1f20935d98/playlist.m3u8
+#EXTINF:-1 tvg-name="Action" tvg-logo="https://i.imgur.com/tZgazoF.png" group-title="UDU TV USA", Action
+https://5c8eaf7647284895b269fd13a40d410c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af95de69db1f20935d98/playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy" tvg-logo="https://i.imgur.com/cSVlBb0.png" group-title="UDU TV USA", Comedy
+https://342189106f294f6da7687918228af833.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f9ad508f47afc741c2526be/playlist.m3u8
+#EXTINF:-1 tvg-name="Crime" tvg-logo="https://i.imgur.com/DelC3oV.png" group-title="UDU TV USA", Crime
+https://210a3c3b5dbc49aaae871dee45d83603.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89adc6bc70441f38fca7bd/playlist.m3u8
+#EXTINF:-1 tvg-name="Drama" tvg-logo="https://i.imgur.com/aonn9ln.png" group-title="UDU TV USA", Drama
+https://fb2bf1d1d7134ce3b02c27f2e2db706b.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89aecf39cfef1f2542d35d/playlist.m3u8
+#EXTINF:-1 tvg-name="Horror" tvg-logo="https://i.imgur.com/Vfms5FO.png" group-title="UDU TV USA", Horror
+https://5f11a6bb1fcb4f22addc43cd31c84b5e.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89ad2f3d50841f3d796fdf/playlist.m3u8
+#EXTINF:-1 tvg-name="Romance" tvg-logo="https://i.imgur.com/oo3Dre9.png" group-title="UDU TV USA", Romance
+https://cca515f696634820833689103bb04704.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af26264e201f49eec999/playlist.m3u8
+#EXTINF:-1 tvg-name="SciFi" tvg-logo="https://i.imgur.com/aUVVsSq.png" group-title="UDU TV USA", SciFi
+https://7f6c646754a74e90b9afad0ed13b1e32.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af5a39cfef1f2542d365/playlist.m3u8
+#EXTINF:-1 tvg-name="Thriller" tvg-logo="https://i.imgur.com/rDY2LWP.png" group-title="UDU TV USA", Thriller
+https://d57cdb1c61b14a8da311d2c9d4513546.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89ae7966822c1f43b457fe/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-name="*********** USA AMC **********",*********** USA AMC **********
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC Absolute Reality" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="AMC USA",AMC Absolute Reality
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC IFC Film Picks" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="AMC USA",AMC IFC Film Picks
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC Presents" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="AMC USA",AMC Presents
+https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC Rush" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="AMC USA",AMC Rush
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="AMC Slightly off" tvg-logo="" group-title="AMC USA",AMC Slightly off
+https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
