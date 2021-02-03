@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Остросюжетное HD
-http://188.35.9.11:2015
-#EXTINF:-1 ,КиноПремиум HD
-http://188.35.9.11:2017
-#EXTINF:-1 ,ULTO
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1 ,Cinema
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1 ,VIP Megahit HD
-http://188.35.9.11:2016
 #EXTINF:-1 ,Дом Кино Премиум HD
 https://sc.id-tv.kz/domkino_hd_38_39.m3u8
 #EXTINF:-1 ,Киносвидание HD
